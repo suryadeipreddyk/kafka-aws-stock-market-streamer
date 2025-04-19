@@ -17,7 +17,7 @@ The project consists of the following components:
 
 ## Architecture
 
-![Alt Text](https://github.com/suryadeipreddyk/kafka-aws-stock-market-streamer/blob/main/Architecture.jpg)
+![Alt Text](https://github.com/suryadeipreddyk/kafka-aws-stock-market-streamer/blob/7b44e526e38456f2705f10fb4d63ec7cd95f3791/Kafka%20Stock%20Streamer%20Architecture.jpg)
 
 
 
